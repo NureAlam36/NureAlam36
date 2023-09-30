@@ -34,7 +34,7 @@
 
 
 <!-- About Me -->
- ## About me
+ ## 👤 About me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -50,7 +50,7 @@
 </p>
 
 <!-- Technologies -->
-## Use To Code
+## 👨‍💻 Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
