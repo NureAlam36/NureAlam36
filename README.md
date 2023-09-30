@@ -12,7 +12,7 @@
 
 
 <!-- Social Links -->
-## ☕ Connect with me!
+## ☕ Connect with me
 
 <p>
  <a href="https://alsiam.com" target="blank">
