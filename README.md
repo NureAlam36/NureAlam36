@@ -70,14 +70,14 @@
  📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues
  
- 🚀  I'm a passionate web developer with a love for clean code and innovative solutions.
- 💻  My coding journey often begins with the timeless console.log("hello world").
- 🌟  I thrive on challenges and enjoy turning complex problems into elegant, user-friendly applications.
- 🤝  Let's collaborate! I'm eager to work with like-minded developers on exciting projects.
- 📧  Reach out to me at info@fnwebsolutions.com – I'm always up for a chat about coding or anything tech-related.
- 📚  Lifelong learner: I believe in staying curious and keeping up with the latest trends in web development.
- ⚡  Fun fact: In my free time, I enjoy exploring the great outdoors and experimenting with new recipes.
- 🌐  Check out my portfolio: [fnwebsolutions.com](https://fnwebsolutions.com)
+ 🚀 &emsp; I'm a passionate web developer with a love for clean code and innovative solutions. <br/><br/>
+ 💻 &emsp; My coding journey often begins with the timeless console.log("hello world"). <br/><br/>
+ 🌟 &emsp; I thrive on challenges and enjoy turning complex problems into elegant, user-friendly applications. <br/><br/>
+ 🤝 &emsp; Let's collaborate! I'm eager to work with like-minded developers on exciting projects. <br/><br/>
+ 📧 &emsp; Reach out to me at info@fnwebsolutions.com – I'm always up for a chat about coding or anything tech-related. <br/><br/>
+ 📚 &emsp; Lifelong learner: I believe in staying curious and keeping up with the latest trends in web development. <br/><br/>
+ ⚡ &emsp; Fun fact: In my free time, I enjoy exploring the great outdoors and experimenting with new recipes. <br/><br/>
+ 🌐 &emsp; Check out my portfolio: [fnwebsolutions.com](https://fnwebsolutions.com)
 
 
 </p>
