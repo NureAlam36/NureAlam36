@@ -13,8 +13,6 @@
 <p align="center"> 
   <samp>
     「 Founder & CEO OF FnWebSolutions 」
-    <br>
-    <br>
   </samp>
 </p>
 
