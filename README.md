@@ -10,7 +10,6 @@
 <p>I bring a strong work ethic, on-time project delivery, and effective collaboration with cross-functional teams. I'm adaptable and thrive in fast-paced environments, known for my attention to detail, especially in testing and debugging.</p>
 <p>I'm passionate about continuous learning, staying updated with industry trends, and making a meaningful impact through my skills. Let's connect and explore how I can contribute to your team or organization.</p>
 
-<br />
 
 <!-- Social Links -->
 ## ☕ Connect with me!
@@ -33,7 +32,6 @@
   </a> 
 </p>
 
-<br />
 
 <!-- About Me -->
  ## About me
