@@ -39,7 +39,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 🚀 &emsp; I'm a passionate web developer with a love for clean code and innovative solutions. <br/>
+ 🚀 &emsp; I'm a passionate web developer with a love for clean code. <br/>
  💻 &emsp; My coding journey often begins with the timeless console.log("hello world"). <br/>
  🌟 &emsp; I thrive on challenges and enjoy turning complex problems into elegant, user-friendly applications. <br/>
  🤝 &emsp; Let's collaborate! I'm eager to work with like-minded developers on exciting projects. <br/>
