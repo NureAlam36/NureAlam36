@@ -1,9 +1,9 @@
 <!-- Intro  -->
-<h2 align="center" border="0">
+<h1 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://alsiam.com">Nure Alam</a></b>
         </samp>
-</h2>
+</h1>
 <p align="center">
   <samp>
   <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
