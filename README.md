@@ -6,10 +6,7 @@
 </h3>
 
 <p>I am a dynamic and results-oriented professional with over three years of hands-on experience in web development and software engineering. My expertise spans a wide range of technical skills, including HTML/CSS, JavaScript/jQuery, PHP, and proficiency in various tools, testing/debugging methodologies, and back-end databases.</p>
-<p>Throughout my career, I have consistently demonstrated a passion for solving complex problems, enhancing user experiences, and delivering high-quality web solutions. My dedication to mastering libraries and frameworks has enabled me to create efficient, and visually appealing websites and applications.</p>
-<p>Beyond my technical prowess, I bring a strong work ethic and an unwavering commitment to delivering on-time, on-budget projects. I excel in collaborating with cross-functional teams, communicating technical concepts to non-technical stakeholders, and driving projects to successful outcomes. My love for continuous learning ensures that I stay updated with the latest industry trends, allowing me to adapt quickly to evolving technologies.</p>
-<p>In addition to my technical abilities, I am known for my leadership qualities, adaptability, and problem-solving acumen. I thrive in fast-paced, dynamic environments and have a keen eye for detail, especially when it comes to testing and debugging to ensure flawless functionality.</p>
-<p>I am enthusiastic about connecting with fellow professionals, exploring new opportunities, and contributing my skills to projects that make a meaningful impact. Let's connect and discuss how my experience and expertise can add value to your team or organization.</p>
+
 
 <p>
  <a href="https://alsiam.com" target="blank">
