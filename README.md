@@ -5,13 +5,13 @@
   </samp>
 </h3>
 
-<p align="center"> 
+<p> 
   <samp>
     「 Founder & CEO OF FnWebSolutions 」
   </samp>
 </p>
 
-<p align="center">
+<p>
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
