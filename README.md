@@ -1,10 +1,10 @@
-<!-- Intro  -->
 <h2>
   <samp>&gt; Hey There!, I am
     <b><a target="_blank" href="https://alsiam.com">Nure Alam</a></b>
   </samp>
 </h3>
 
+<!-- Bio -->
 <p>I am a results-driven professional with three years of experience in web development and software engineering. My expertise covers HTML/CSS, JavaScript/jQuery, PHP, Node.js, React.js, Next.js, MongoDB, and proficiency in various testing/debugging methodologies and back-end databases.</p>
 <p>Throughout my career, I've excelled in problem-solving, enhancing user experiences, and delivering high-quality web solutions. I'm dedicated to mastering libraries and frameworks, creating efficient, visually appealing websites and applications.</p>
 <p>I bring a strong work ethic, on-time project delivery, and effective collaboration with cross-functional teams. I'm adaptable and thrive in fast-paced environments, known for my attention to detail, especially in testing and debugging.</p>
@@ -17,9 +17,9 @@
  <a href="https://linkedin.com/in/al-siam" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
+ <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
+ </a>
  <a href="https://twitter.com/alsiam_dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
@@ -30,9 +30,8 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
-<br />
 
-<!-- About Section -->
+<!-- About Me -->
  ## About me
  
 <p>
@@ -48,8 +47,7 @@
  🌐 &emsp; Check out my portfolio: [fnwebsolutions.com](https://fnwebsolutions.com)
 </p>
 
-<br/>
-
+<!-- Technologies -->
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
