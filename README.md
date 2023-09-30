@@ -10,6 +10,9 @@
 <p>I bring a strong work ethic, on-time project delivery, and effective collaboration with cross-functional teams. I'm adaptable and thrive in fast-paced environments, known for my attention to detail, especially in testing and debugging.</p>
 <p>I'm passionate about continuous learning, staying updated with industry trends, and making a meaningful impact through my skills. Let's connect and explore how I can contribute to your team or organization.</p>
 
+<!-- Social Links -->
+## ☕ Connect with me!
+
 <p>
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
