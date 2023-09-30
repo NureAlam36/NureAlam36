@@ -65,11 +65,6 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues
- 
  🚀 &emsp; I'm a passionate web developer with a love for clean code and innovative solutions. <br/><br/>
  💻 &emsp; My coding journey often begins with the timeless console.log("hello world"). <br/><br/>
  🌟 &emsp; I thrive on challenges and enjoy turning complex problems into elegant, user-friendly applications. <br/><br/>
