@@ -46,7 +46,7 @@
  📧 &emsp; Reach out to me at info@fnwebsolutions.com – I'm always up for a chat about coding or anything tech-related. <br/>
  📚 &emsp; Lifelong learner: I believe in staying curious and keeping up with the latest trends in web development. <br/>
  ⚡ &emsp; Fun fact: In my free time, I enjoy exploring the great outdoors and experimenting with new recipes. <br/>
- 🌐 &emsp; Check out my portfolio: [fnwebsolutions.com](https://fnwebsolutions.com)
+ 🌐 &emsp; Check out out agency: [fnwebsolutions.com](https://fnwebsolutions.com)
 </p>
 
 <!-- Technologies -->
